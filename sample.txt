@@ -1,0 +1,11 @@
+This is an example text file for testing the word frequency program.
+
+In this text, we have various words, and we want to find out how many times each word occurs. Words like "example," "text," and "program" will likely have higher frequencies.
+
+Each word frequency will be counted, and the program will display the results.
+
+Let's continue with some more words to make this file a bit larger. Here are some additional words:
+
+testing, Python, programming, language, script, example, file, word, frequency, count, unique, occurrence, code, run, main, module, imported, executed, block, function, script, executed, directly, variable, value, if, name, set, define, entry, point, save, in, to, when, as, output, from, my, some, is, we, and, have, this, an, The, for, of, with, at, it, on, be, has, can, you, not, but, or, into, will, also, other, used, that, check, whether, way, idiom, common, a, construct, This, Here's, how, works, If, special, import, should, example, like, will, more, make, bit, some, Let's, we, here, additional, Here, are, Let's, continue, with, we, Let's, file, a, this, make, to, words, more, some, are, Here, additional, here, are, Let's, continue, with, we, Let's, file, a, this, make, to, words, more, some, are, Here, additional, here, are, Let's, continue, with, we, Let's, file, a, this, make, to, words, more, some, are, Here, additional, here, are, Let's, continue, with, we, Let's, file, a, this, make, to, words, more, some, are.
+
+This should be enough text to test the program effectively.
